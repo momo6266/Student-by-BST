@@ -1,0 +1,103 @@
+StudentId = 28
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+PhoneNumber = 790-3233
+Course = CS
+CGPA = 3.12076
+
+StudentId = 22
+Name = Ben Affleck
+Address = 200 Hunting Street, Malaysia 784563
+DOB = 25-10-1968
+PhoneNumber = 432-4579
+Course = IB
+CGPA = 3.12076
+
+StudentId = 23
+Name = Salma Hayek
+Address = 45 Mexican Boulevard, Hotel California, Malaysia 467822
+DOB = 06-04-1973
+PhoneNumber = 790-0000
+Course = CS
+CGPA = 3.12076
+
+StudentId = 19
+Name = Phua Chu Kang
+Address = 50 PCK Avenue, Malaysia 639798
+DOB = 11-08-1964
+PhoneNumber = 345-6780
+Course = CS
+CGPA = 3.12076
+
+StudentId = 21
+Name = Zoe Tay
+Address = 100 Blue Eyed St, Malaysia 456872
+DOB = 15-02-1968
+PhoneNumber = 456-1234
+Course = CS
+CGPA = 3.12076
+
+StudentId = 125
+Name = Julia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 128
+Name = Ching Chang Chong
+Address = 200 Brokovich St, Malaysia 456455
+DOB = 30-08-1967
+PhoneNumber = 123-2777
+Course = IA
+CGPA = 3.23678
+
+StudentId = 124
+Name = Ding Dang Dong
+Address = 300 Brokovich St, Malaysia 456455
+DOB = 20-08-1966
+PhoneNumber = 123-5555
+Course = CS
+CGPA = 3.23678
+
+StudentId = 127
+Name = Bing Bang Bong
+Address = 600 Brokovich St, Malaysia 456455
+DOB = 6-06-1955
+PhoneNumber = 123-2888
+Course = CT
+CGPA = 3.23678
+
+StudentId = 150
+Name = Ling Lang Long
+Address = 666 Brokovich St, Malaysia 456455
+DOB = 13-03-1999
+PhoneNumber = 123-2999
+Course = IA
+CGPA = 3.23678
+
+StudentId = 132
+Name = Ring Rang Rong
+Address = 12 Brokovich St, Malaysia 456455
+DOB = 7-07-1997
+PhoneNumber = 123-2111
+Course = IA
+CGPA = 3.23678
+
+StudentId = 177
+Name = King Kang Kong
+Address = 666 Brokovich St, Malaysia 456455
+DOB = 13-03-1999
+PhoneNumber = 123-2999
+Course = IA
+CGPA = 3.23678
+
+StudentId = 20
+Name = Lazy Think Name
+Address = 44 Brokovich St, Malaysia 456455
+DOB = 26-05-1969
+PhoneNumber = 123-1999
+Course = CT
+CGPA = 3.23678
